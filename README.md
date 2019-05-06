@@ -10,5 +10,5 @@ If you find any bugs, or make any improvements on the results in the notebook, I
 
 Email me anytime: daniel@mrdbourke.com
 
-Stay tuned for a blog post detailing the steps taken in the notebook soon.
+A full blog post to go along with the video and code is available [here](https://towardsdatascience.com/a-gentle-introduction-to-exploratory-data-analysis-f11d843b8184).
 
