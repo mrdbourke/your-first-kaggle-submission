@@ -12,3 +12,6 @@ Email me anytime: daniel@mrdbourke.com
 
 A full blog post to go along with the video and code is available [here](https://towardsdatascience.com/a-gentle-introduction-to-exploratory-data-analysis-f11d843b8184).
 
+![image](https://user-images.githubusercontent.com/36957216/202097529-883be7cc-7396-450e-8cb3-6106d87fdf2f.png)
+
+
